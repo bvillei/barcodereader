@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85bc7516-6711-4a31-97ae-445572956386" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aInQ34Ng3NpuTNRWnsyhGMmgfy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\Projects\barcodereader\src\test\resources" />
+      <recent name="C:\Work\Projects\barcodereader\src\main\resources" />
+      <recent name="C:\Work\Projects\barcodereader\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Projects\barcodereader\src\main\resources" />
+      <recent name="C:\Work\Projects\barcodereader\src\test\resources" />
+      <recent name="C:\Work\Projects\barcodereader\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.BarcodeReaderTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.bvillei.barcodereader.Main" />
+      <module name="barcodereader.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.bvillei.barcodereader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarcodeReaderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;BarcodeReaderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BarcodeReaderTest.testOneStaircaseLine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;BarcodeReaderTest.testOneStaircaseLine&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BarcodeReaderTest.testTwoLines" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;BarcodeReaderTest.testTwoLines&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="barcodereader" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BarcodeReaderTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.barcodereader" />
+        <item itemvalue="Gradle.BarcodeReaderTest.testOneStaircaseLine" />
+        <item itemvalue="Gradle.BarcodeReaderTest.testTwoLines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85bc7516-6711-4a31-97ae-445572956386" name="Default Changelist" comment="" />
+      <created>1586431955987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586431955987</updated>
+      <workItem from="1586431959218" duration="10489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1586440796875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586440796875" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586432024489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586432024489" />
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom" timestamp="1586444711217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586444711217" />
+    <state width="1237" height="224" key="GridCell.Tab.0.center" timestamp="1586444711217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586444711217" />
+    <state width="1237" height="224" key="GridCell.Tab.0.left" timestamp="1586444711216">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586444711216" />
+    <state width="1237" height="224" key="GridCell.Tab.0.right" timestamp="1586444711217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586444711217" />
+  </component>
+</project>
