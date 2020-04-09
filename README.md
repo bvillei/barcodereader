@@ -19,8 +19,9 @@ Find the Endpoints of Lines on black and white images
 - The first value for each coordinate is the X position, the second the Y position
 - The two endpoints of the same line follow each other
 #### Example
+<img width="587" alt="barcodereader_example" src="https://user-images.githubusercontent.com/27300641/78912087-7cba9e00-7a87-11ea-87be-e9d388ff2ada.PNG">
 
-#### Run Tests
+## Automated Tests
 The code includes a few automated tests  
 You can use the following command to run them:
 ```
